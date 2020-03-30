@@ -1,2 +1,2 @@
 # Spracherkennung_de_MG
-Spracherkennung mit Headphone
+Spracherkennung mit Headphone, Speech-To-Text
